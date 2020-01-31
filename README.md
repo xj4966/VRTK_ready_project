@@ -1,2 +1,1 @@
-# Codename-WuSun
-a VR Story Game
+# VRTK Basic Project
